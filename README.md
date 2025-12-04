@@ -1,8 +1,8 @@
-# 📊 Customer Orders Data Cleaning Project
+# Customer Orders Data Cleaning Project
 
 **Tools:** Excel (TRIM, PROPER, SUBSTITUTE, VALUE, Text to Columns, Remove Duplicates, formatting)
 
-## 📌 Project Overview  
+##  Project Overview  
 
 This project demonstrates my ability to clean and prepare messy real-world data.  
 The dataset contained inconsistent names, cities, dates, numeric values, and broken email formats.  
@@ -10,7 +10,7 @@ I applied standard data-cleaning techniques in Excel to produce a structured, an
 
 ---
 
-## 🧹 Raw Data Issues  
+##  Raw Data Issues  
 
 The original dataset (in `raw_customer_orders.xlsx`) contained multiple types of problems:
 
@@ -47,7 +47,7 @@ The original dataset (in `raw_customer_orders.xlsx`) contained multiple types of
 
 ---
 
-## 🛠 Cleaning Techniques Used  
+##  Cleaning Techniques Used  
 
 All cleaning was performed in Excel using:
 
